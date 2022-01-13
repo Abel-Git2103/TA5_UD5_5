@@ -16,6 +16,6 @@ public class DivisibleAPP {
 		}else {
 			System.out.println("El número " + valorDivisible + " no es divisible de 2.");
 		}
-		
+		consola.close();
 	}
 }
